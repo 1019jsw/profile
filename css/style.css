@@ -86,7 +86,8 @@ body{
 }
 .header-bottom {
 	/*background: #C0EEFF;*/
-	background: #e84c3d;
+	/*background: #e84c3d;*/
+	background: #00bff0;
 	padding:5px 0 0px 0;
 	text-align: center;
 }
@@ -1168,7 +1169,7 @@ ul.items_list p{
 .class_right{
 	background: #72D0F4;
 	padding:20px 10px;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 }
 .class_right h2{
 	color:#fff;
