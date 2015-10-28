@@ -348,7 +348,7 @@ margin-top:50px;
   color: #fff;
 }
 
-.btm-clr .glyphicon-star,.btm-clr .glyphicon-cog,.btm-clr .glyphicon-map-marker,.btm-clr .glyphicon-thumbs-up,.btm-clr .glyphicon-globe {
+.btm-clr .glyphicon-star,.btm-clr .glyphicon-cog,.btm-clr .glyphicon-map-marker,.btm-clr .glyphicon-thumbs-up,.btm-clr .glyphicon-globe,.point-icon .glyphicon-send {
   z-index: 9999;
   top: 27px;
   left: 0px;
@@ -610,7 +610,7 @@ color: #fff;
 	-ms-transition: .5s all;
 	-moz-transition: .5s all;
 	}
-.point-icon .glyphicon-map-marker,.point-icon .glyphicon-envelope,.point-icon .glyphicon-earphone, .point-icon .glyphicon-comment{
+.point-icon .glyphicon-map-marker,.point-icon .glyphicon-envelope,.point-icon .glyphicon-earphone, .point-icon .glyphicon-comment,.point-icon .glyphicon-send{
    z-index: 9999;
   top: 0px;
   left: 1px;
