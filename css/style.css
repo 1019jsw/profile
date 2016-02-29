@@ -314,6 +314,13 @@ width:57%;
   line-height: 1.8em;
   padding: 2em 0 0 0;
 }
+.about-grid li{
+  text-align: left;
+  color: #fff;
+  font-size: 14px;
+  padding: 1em 0 0 0;
+}
+/*--/about--*/
 /*--/about--*/
 /*--services--*/
 .services{
@@ -798,8 +805,9 @@ color:#76b852;
 	  width: 95%;
 	}
 	.about-grid {
+		text-align: center;
 	  float: left;
-	  width: 50%;
+	  width: 100%;
 	}
 	.about-grid p {
 	  padding: 1em 0 0 0;
@@ -943,7 +951,7 @@ color:#76b852;
 	}
 	.about-grid {
 	  float: left;
-	  width: 50%;
+	  width: 100%;
 	}
 	.about-grid p {
 	  padding: 1em 0 0 0;
